@@ -5,8 +5,8 @@
 ## Стек технологий
 `Python` `Pandas` `Matplotlib` `Seaborn`
 ## Файлы
-- `Анализ_факторов_увольнений.ipynb` — код анализа
-- `diploma_project.docx` — итоговый отчёт с выводами
-- `Анализ факторов увольнений (поиск инсайтов, составление рекомендаций стейкхолдерам)».pptx` — презентация отчета
+- `Анализ_факторов_увольнений.ipynb` - код анализа
+- `diploma_project.docx` - итоговый отчёт с выводами
+- `Анализ факторов увольнений (поиск инсайтов, составление рекомендаций стейкхолдерам)».pptx` - презентация отчета
 ## Источник данных 
 Датасет: *[IBM HR Analytics Employee Attrition & Performance]* — [[ссылка на Kaggle]](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
